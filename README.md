@@ -18,3 +18,7 @@
 ### 1. SOLID 원칙을 Swift에 적용해보기 
 ![Frame 1](https://user-images.githubusercontent.com/60260284/154085526-1b6217a0-d02d-4dd6-a062-85d616f63882.png)
 [이동하기](https://github.com/i-colours-u/Design-Pattern-In-Swift/blob/main/contents/1-SOLID.md)
+
+### 2. 디자인 패턴의 서론
+![Frame 29](https://user-images.githubusercontent.com/60260284/154127315-c862a1a2-13c8-4967-92ce-994058da09ae.png)
+[이동하기](https://github.com/i-colours-u/Design-Pattern-In-Swift/blob/main/contents/2-Design-Pattern-Intro.md)
