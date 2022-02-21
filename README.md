@@ -22,3 +22,8 @@
 ### 2. 디자인 패턴의 서론
 ![Frame 29](https://user-images.githubusercontent.com/60260284/154127315-c862a1a2-13c8-4967-92ce-994058da09ae.png)
 [이동하기](https://github.com/i-colours-u/Design-Pattern-In-Swift/blob/main/contents/2-Design-Pattern-Intro.md)
+
+### 3. 디자인 패턴을 통해 문제를 해결하는 방법
+![Frame 38](https://user-images.githubusercontent.com/60260284/154905374-98070f75-5fa9-43d9-bdbb-d1acc5e624b0.png)
+[이동하기](https://github.com/i-colours-u/Design-Pattern-In-Swift/blob/main/contents/3-Design-Pattern-Problem-Intro.md)
+
