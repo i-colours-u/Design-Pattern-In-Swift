@@ -27,3 +27,4 @@
 ![Frame 38](https://user-images.githubusercontent.com/60260284/154905374-98070f75-5fa9-43d9-bdbb-d1acc5e624b0.png)
 [이동하기](https://github.com/i-colours-u/Design-Pattern-In-Swift/blob/main/contents/3-Design-Pattern-Problem-Intro.md)
 
+(일주일에 하나씩 추가 될 예정입니다)
