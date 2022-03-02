@@ -12,8 +12,6 @@
 ---
 ![Frame 75](https://user-images.githubusercontent.com/60260284/156298263-fa47cd96-03d1-4365-9b3f-a3dce9fd5ac7.png)
 ---
-![Frame 76](https://user-images.githubusercontent.com/60260284/156298264-008d9a25-2976-477a-ab68-6a73373f6872.png)
----
 ![Frame 77](https://user-images.githubusercontent.com/60260284/156298268-b0a352b3-5922-47a4-8ba6-ccf18be1e877.png)
 ---
 ![Frame 78](https://user-images.githubusercontent.com/60260284/156298269-1e263bae-f621-4c0f-a589-028617afcb6f.png)
