@@ -31,4 +31,8 @@
 ![Frame 69](https://user-images.githubusercontent.com/60260284/156298243-85bc8011-1326-4e49-9fce-08462382aabb.png)
 [이동하기](https://github.com/i-colours-u/Design-Pattern-In-Swift/blob/main/contents/4-Singleton.md)
 
+### 5. 팩토리 패턴 (Factory Pattern)
+![Frame 93](https://user-images.githubusercontent.com/60260284/157382591-f81bb179-1773-45fe-b54c-ffd3dd004db6.png)
+[이동하기](https://github.com/i-colours-u/Design-Pattern-In-Swift/blob/main/contents/5-Factory.md)
+
 (일주일에 하나씩 추가 될 예정입니다)
