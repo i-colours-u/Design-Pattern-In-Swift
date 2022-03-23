@@ -35,4 +35,8 @@
 ![Frame 93](https://user-images.githubusercontent.com/60260284/157382591-f81bb179-1773-45fe-b54c-ffd3dd004db6.png)
 [이동하기](https://github.com/i-colours-u/Design-Pattern-In-Swift/blob/main/contents/5-Factory.md)
 
+### 6. 어댑터 패턴 (Adapter Pattern)
+![디자인패턴5 1](https://user-images.githubusercontent.com/60260284/159633618-159a28e3-507d-493f-a3f9-d4703b40d903.png)
+[이동하기](https://github.com/i-colours-u/Design-Pattern-In-Swift/blob/main/contents/6-Adapter.md)
+
 (일주일에 하나씩 추가 될 예정입니다)
