@@ -39,4 +39,8 @@
 ![디자인패턴5 1](https://user-images.githubusercontent.com/60260284/159633618-159a28e3-507d-493f-a3f9-d4703b40d903.png)
 [이동하기](https://github.com/i-colours-u/Design-Pattern-In-Swift/blob/main/contents/6-Adapter.md)
 
+### 7. 전략 패턴 (Strategy Pattern)
+![디자인패턴7 0](https://user-images.githubusercontent.com/60260284/160768948-ac61d4f9-e7a7-4184-9c4c-acec6dc70a2a.png)
+[이동하기](https://github.com/i-colours-u/Design-Pattern-In-Swift/blob/main/contents/7-Strategy.md)
+
 (일주일에 하나씩 추가 될 예정입니다)
