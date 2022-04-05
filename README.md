@@ -43,4 +43,6 @@
 ![디자인패턴7 0](https://user-images.githubusercontent.com/60260284/160768948-ac61d4f9-e7a7-4184-9c4c-acec6dc70a2a.png)
 [이동하기](https://github.com/i-colours-u/Design-Pattern-In-Swift/blob/main/contents/7-Strategy.md)
 
-(일주일에 하나씩 추가 될 예정입니다)
+### 8. 빌더 패턴 (Builder Pattern)
+![디자인패턴8 0](https://user-images.githubusercontent.com/60260284/161818924-40a1f555-8da7-4f6a-ab20-29389aba1ab7.png)
+[이동하기](https://github.com/i-colours-u/Design-Pattern-In-Swift/blob/main/contents/8-Builder.md)
